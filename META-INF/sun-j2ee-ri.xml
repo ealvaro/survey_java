@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<j2ee-ri-specific-information>
+  <rolemapping />
+  <web>
+    <module-name>javafeedback.war</module-name>
+    <context-root>javasurvey</context-root>
+  </web>
+</j2ee-ri-specific-information>
+
