@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tomcatProjectProperties>
+    <rootDir>/</rootDir>
+    <exportSource>false</exportSource>
+    <reloadable>true</reloadable>
+    <redirectLogger>false</redirectLogger>
+    <updateXml>false</updateXml>
+    <warLocation>C:\futbol\javafeedback\javafeedback.war</warLocation>
+    <extraInfo></extraInfo>
+    <webPath>javafeedback</webPath>
+    <webClassPathEntries>
+        <webClassPathEntry>C:/apache-tomcat-5.5.17/common/lib/mysql-connector-java-3.1.12-bin.jar</webClassPathEntry>
+    </webClassPathEntries>
+</tomcatProjectProperties>
